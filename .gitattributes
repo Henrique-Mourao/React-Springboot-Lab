@@ -1,0 +1,5 @@
+# Enforce LF for package-lock.json to avoid CRLF replacements on Windows
+package-lock.json text eol=lf
+
+# Recommended general settings
+* text=auto
